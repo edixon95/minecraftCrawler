@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainScreen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    border: 5px solid black;
+}
+
+#enemyShow {
+    position: absolute;
+    bottom: 65%;
+    left: 45%;
+    height: 25%;
+}
+
+div {
+    padding-top: 2%;
+    text-align: center;
+}
+
+#turnLeft {
+    height: 30px;
+    border-radius: 5px;
+}
+
+#moveForward {
+    height: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+}
+
+#turnRight {
+    height: 30px;
+    border-radius: 5px;
+}
+
+    #playerInformationContainer {
+        width: 50%;
+        margin-left: 0%;
+        display: inline-flex;
+        flex-flow: column;
+    }
+    
+    #enemyInformationContainer {
+        display: inline-flex;
+        flex-flow: column;
+        width: 50%;
+    }
+    
+    #playerThoughts {
+        border: 2px red solid;
+        width: 10rem;
+    }
+    
+    #enemyData {
+        border: 2px red solid;
+        width: 10rem;
+    }
+    
+    #playerHealth {
+        width: 10rem;
+        border: 2px red solid;
+    }
+    
+    #enemyHealth {
+        width: 10rem;
+        border: 2px rgb(255, 0, 0) solid;
+    }
+    
+    @media only screen and (min-width: 200px) {
+        #enemyShow {
+            position: absolute;
+            bottom: 70%;
+            left: 45%;
+            height: 30%;
+        }
+    }
+
+
+
+@media only screen and (min-width: 400px) {
+    #enemyShow {
+        position: absolute;
+        bottom: 75%;
+        left: 45%;
+        height: 25%;
+    }
+}
+@media only screen and (min-width: 660px) {
+    #enemyShow {
+        position: absolute;
+        bottom: 43%;
+        left: 45%;
+        height: 65%;
+    }
+}
+@media only screen and (min-width: 700px) {
+    #enemyShow {
+        position: absolute;
+        bottom: 50%;
+        left: 45%;
+        height: 60%;
+    }
+}
+
+
+
+@media only screen and (min-width: 900px) {
+#playerInformationContainer {
+    margin-left: 25%;
+    width: 25%;
+    display: inline-flex;
+    flex-flow: column;
+}
+
+#enemyShow {
+    position: absolute;
+    top: 3rem;
+    left: 45%;
+    height: 65%;
+}
+
+#enemyInformationContainer {
+    display: inline-flex;
+    flex-flow: column;
+    width: 25%;
+    float: right;
+    margin-right: 10%;
+}
+
+#playerThoughts {
+    border: 2px red solid;
+    width: 10rem;
+}
+
+#enemyData {
+    border: 2px red solid;
+    width: 10rem;
+}
+
+#playerHealth {
+    width: 10rem;
+    border: 2px red solid;
+}
+
+#enemyHealth {
+    width: 10rem;
+    border: 2px red solid;
+}
+}
+
+.hidden {
+    display: none
+}

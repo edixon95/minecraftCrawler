@@ -1,25 +1,19 @@
 [{
   "id": 1,
-  "image": [
-    "north": "p1n.png",
-    "east": "p1e.png",
-    "south": "p1s.png",
-    "west": "p1w.png",
-  ],
+  "north": "p1n.png",
+  "east": "p1e.png",
+  "south": "p1s.png",
+  "west": "p1w.png",
 }, {
   "id": 2,
-  "image": [
-    "north": "p3n.png",
-    "east": "p3e.png",
-    "south": "p3s.png",
-    "west": "p3w.png",
-  ],
+  "north": "p3n.png",
+  "east": "p3e.png",
+  "south": "p3s.png",
+  "west": "p3w.png",
 }, {
   "id": 3,
-  "image": [
-    "north": "p5n.png",
-    "east": "p5e.png",
-    "south": "p5s.png",
-    "west": "p5w.png",
-  ],
+  "north": "p5n.png",
+  "east": "p5e.png",
+  "south": "p5s.png",
+  "west": "p5w.png",
 }]

@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "camera": [
+    "camera": 
         {
             "image": "img/p1n.png"
         },
@@ -13,11 +13,10 @@
         {
             "image": "img/p1w.png"
         },
-    ]
 },
 {
     "id": 3,
-    "camera": [
+    "camera": 
         {
             "image": "img/p3n.png"
         },
@@ -30,6 +29,5 @@
         {
             "image": "img/p3w.png"
         },
-    ]
 }
 

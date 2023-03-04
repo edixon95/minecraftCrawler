@@ -1,41 +1,25 @@
 [{
   "id": 1,
-  "first_name": "Lannie",
-  "last_name": "Hawkins"
+  "image": {
+    "north": "p1n.png",
+    "east": "p1e.png",
+    "south": "p1s.png",
+    "west": "p1w.png",
+  },
 }, {
   "id": 2,
-  "first_name": "Bettye",
-  "last_name": "Whitebread"
+  "image": {
+    "north": "p3n.png",
+    "east": "p3e.png",
+    "south": "p3s.png",
+    "west": "p3w.png",
+  },
 }, {
   "id": 3,
-  "first_name": "Zora",
-  "last_name": "Sauvain"
-}, {
-  "id": 4,
-  "first_name": "Wait",
-  "last_name": "Hanway"
-}, {
-  "id": 5,
-  "first_name": "Carmen",
-  "last_name": "Pech"
-}, {
-  "id": 6,
-  "first_name": "Skelly",
-  "last_name": "Camamile"
-}, {
-  "id": 7,
-  "first_name": "Gregory",
-  "last_name": "MacMichael"
-}, {
-  "id": 8,
-  "first_name": "Rachelle",
-  "last_name": "O'Luby"
-}, {
-  "id": 9,
-  "first_name": "Celestia",
-  "last_name": "Errington"
-}, {
-  "id": 10,
-  "first_name": "Haily",
-  "last_name": "Donwell"
+  "image": {
+    "north": "p5n.png",
+    "east": "p5e.png",
+    "south": "p5s.png",
+    "west": "p5w.png",
+  },
 }]

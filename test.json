@@ -1,33 +1,41 @@
-{
-    "id": 1,
-    "camera": 
-        {
-            "image": "img/p1n.png"
-        },
-        {
-            "image": "img/p1e.png"
-        },
-        {
-            "image": "img/p1s.png"
-        },
-        {
-            "image": "img/p1w.png"
-        },
-},
-{
-    "id": 3,
-    "camera": 
-        {
-            "image": "img/p3n.png"
-        },
-        {
-            "image": "img/p3e.png"
-        },
-        {
-            "image": "img/p3s.png"
-        },
-        {
-            "image": "img/p3w.png"
-        },
-}
-
+[{
+  "id": 1,
+  "first_name": "Lannie",
+  "last_name": "Hawkins"
+}, {
+  "id": 2,
+  "first_name": "Bettye",
+  "last_name": "Whitebread"
+}, {
+  "id": 3,
+  "first_name": "Zora",
+  "last_name": "Sauvain"
+}, {
+  "id": 4,
+  "first_name": "Wait",
+  "last_name": "Hanway"
+}, {
+  "id": 5,
+  "first_name": "Carmen",
+  "last_name": "Pech"
+}, {
+  "id": 6,
+  "first_name": "Skelly",
+  "last_name": "Camamile"
+}, {
+  "id": 7,
+  "first_name": "Gregory",
+  "last_name": "MacMichael"
+}, {
+  "id": 8,
+  "first_name": "Rachelle",
+  "last_name": "O'Luby"
+}, {
+  "id": 9,
+  "first_name": "Celestia",
+  "last_name": "Errington"
+}, {
+  "id": 10,
+  "first_name": "Haily",
+  "last_name": "Donwell"
+}]

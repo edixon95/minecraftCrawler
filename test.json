@@ -1,0 +1,426 @@
+{
+    "id": 1,
+    "camera": [
+        {
+            "image": `./img/p1n.png`
+        },
+        {
+            "image": `./img/p1e.png`
+        },
+        {
+            "image": `./img/p1s.png`
+        },
+        {
+            "image": `./img/p1w.png`
+        },
+    ]
+},
+{
+    "id": 2,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+    ]
+},
+{
+    "id": 3,
+    "camera": [
+        {
+            "image": `./img/p3n.png`
+        },
+        {
+            "image": `./img/p3e.png`
+        },
+        {
+            "image": `./img/p3s.png`
+        },
+        {
+            "image": `./img/p3w.png`
+        },
+    ]
+},
+{
+    "id": 4,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+    ]
+},
+{
+    "id": 5,
+    "camera": [
+        {
+            "image": `./img/p5n.png`
+        },
+        {
+            "image": `./img/p5e.png`
+        },
+        {
+            "image": `./img/p5s.png`
+        },
+        {
+            "image": `./img/p5w.png`
+        },
+    ]
+},
+{
+    "id": 6,
+    "camera": [
+        {
+            "image": `./img/p6n.png`
+        },
+        {
+            "image": `./img/p6e.png`
+        },
+        {
+            "image": `./img/p6s.png`
+        },
+        {
+            "image": `./img/p6w.png`
+        },
+    ]
+},
+{
+    "id": 7,
+    "camera": [
+        {
+            "image": `./img/p7n.png`
+        },
+        {
+            "image": `./img/p7e.png`
+        },
+        {
+            "image": `./img/p7s.png`
+        },
+        {
+            "image": `./img/p7w.png`
+        },
+    ]
+},
+{
+    "id": 8,
+    "camera": [
+        {
+            "image": `./img/p8n.png`
+        },
+        {
+            "image": `./img/p8e.png`
+        },
+        {
+            "image": `./img/p8s.png`
+        },
+        {
+            "image": `./img/p8w.png`
+        },
+    ]
+},
+{
+    "id": 9,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+    ]
+},
+{
+    "id": 10,
+    "camera": [
+        {
+            "image": `./img/p10n.png`
+        },
+        {
+            "image": `./img/p10e.png`
+        },
+        {
+            "image": `./img/p10s.png`
+        },
+        {
+            "image": `./img/p10w.png`
+        }
+    ]
+},
+{
+    "id": 11,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        }
+    ]
+},
+{
+    "id": 12,
+    "camera": [
+        {
+            "image": `./img/p12n.png`
+        },
+        {
+            "image": `./img/p12e.png`
+        },
+        {
+            "image": `./img/p12s.png`
+        },
+        {
+            "image": `./img/p12w.png`
+        }
+    ]
+},
+{
+    "id": 13,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        }
+    ]
+},
+{
+    "id": 14,
+    "camera": [
+        {
+            "image": `./img/p14n.png`
+        },
+        {
+            "image": `./img/p14e.png`
+        },
+        {
+            "image": `./img/p14s.png`
+        },
+        {
+            "image": `./img/p14w.png`
+        }
+    ]
+},
+{
+    "id": 15,
+    "camera": [
+        {
+            "image": `./img/p15n.png`
+        },
+        {
+            "image": `./img/p15e.png`
+        },
+        {
+            "image": `./img/p15s.png`
+        },
+        {
+            "image": `./img/p15w.png`
+        }
+    ]
+},
+{
+    "id": 16,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        }
+    ]
+},
+{
+    "id": 17,
+    "camera": [
+        {
+            "image": `./img/p17n.png`
+        },
+        {
+            "image": `./img/p17e.png`
+        },
+        {
+            "image": `./img/p17s.png`
+        },
+        {
+            "image": `./img/p17w.png`
+        }
+    ]
+},
+{
+    "id": 18,
+    "camera": [
+        {
+            "image": `./img/p18n.png`
+        },
+        {
+            "image": `./img/p18e.png`
+        },
+        {
+            "image": `./img/p18s.png`
+        },
+        {
+            "image": `./img/p18w.png`
+        }
+    ]
+},
+{
+    "id": 19,
+    "camera": [
+        {
+            "image": `./img/p19n.png`
+        },
+        {
+            "image": `./img/p19e.png`
+        },
+        {
+            "image": `./img/p19s.png`
+        },
+        {
+            "image": `./img/p19w.png`
+        }
+    ]
+},
+{
+    "id": 20,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        }
+    ]
+},
+{
+    "id": 21,
+    "camera": [
+        {
+            "image": `./img/p21n.png`
+        },
+        {
+            "image": `./img/p21e.png`
+        },
+        {
+            "image": `./img/p21s.png`
+        },
+        {
+            "image": `./img/p21w.png`
+        }
+    ]
+},
+{
+    "id": 22,
+    "camera": [
+        {
+            "image": `./img/p22n.png`
+        },
+        {
+            "image": `./img/p22e.png`
+        },
+        {
+            "image": `./img/p22s.png`
+        },
+        {
+            "image": `./img/p22w.png`
+        }
+    ]
+},
+{
+    "id": 23,
+    "camera": [
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        },
+        {
+            "image": ``
+        }
+    ]
+},
+{
+    "id": 24,
+    "camera": [
+        {
+            "image": `./img/p24n.png`
+        },
+        {
+            "image": `./img/p24e.png`
+        },
+        {
+            "image": `./img/p24s.png`
+        },
+        {
+            "image": `./img/p24w.png`
+        }
+    ]
+},
+{
+    "id": 25,
+    "camera": [
+        {
+            "image": `./img/p25n.png`
+        },
+        {
+            "image": `./img/p25e.png`
+        },
+        {
+            "image": `./img/p25s.png`
+        },
+        {
+            "image": `./img/p25w.png`
+        }
+    ]
+}
+]

@@ -2,33 +2,16 @@
     "id": 1,
     "camera": [
         {
-            "image": img/p1n.png
+            "image": "img/p1n.png"
         },
         {
-            "image": img/p1e.png
+            "image": "img/p1e.png"
         },
         {
-            "image": img/p1s.png
+            "image": "img/p1s.png"
         },
         {
-            "image": img/p1w.png
-        },
-    ]
-},
-{
-    "id": 2,
-    "camera": [
-        {
-            "image": 
-        },
-        {
-            "image": 
-        },
-        {
-            "image": 
-        },
-        {
-            "image": 
+            "image": "img/p1w.png"
         },
     ]
 },
@@ -36,16 +19,16 @@
     "id": 3,
     "camera": [
         {
-            "image": img/p3n.png
+            "image": "img/p3n.png"
         },
         {
-            "image": img/p3e.png
+            "image": "img/p3e.png"
         },
         {
-            "image": img/p3s.png
+            "image": "img/p3s.png"
         },
         {
-            "image": img/p3w.png
+            "image": "img/p3w.png"
         },
     ]
 },
